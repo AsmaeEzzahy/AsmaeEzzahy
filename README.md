@@ -30,6 +30,8 @@ I thrive in environments where creativity meets rigor, and I aim to translate co
 
 ## Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter,git,mysql,postgres&theme=light)](https://skillicons.dev)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
