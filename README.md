@@ -1,19 +1,61 @@
-Asmae Ez-zahy
+# Asmae Ez-zahy
+### PhD Researcher · AI for Hydrogeology & Environmental Sciences
+**Université de Rouen Normandie · CNRS**
 
-PhD Researcher · AI for Hydrogeology & Environmental Sciences
-Université de Rouen Normandie · CNRS
-Exploring the intersection of Artificial Intelligence and Earth's hidden water systems.
+> *Exploring the intersection of Artificial Intelligence and Earth's hidden water systems.*
 
-About Me
-I am a PhD student based in Rouen, specializing in Artificial Intelligence applications for environmental sciences. My research focuses on understanding and predicting groundwater variability using machine learning and deep learning techniques, bridging the gap between data, technology, and the natural world.
+---
+
+## About Me
+
+I am a PhD student based in Rouen, specializing in **Artificial Intelligence** applications for environmental sciences. My research focuses on **understanding and predicting groundwater variability** using machine learning and deep learning techniques, bridging the gap between data, technology, and the natural world.
+
 I am curious by nature, constantly seeking to explore new ideas and connect interdisciplinary knowledge. Beyond research, I enjoy discovering innovative approaches, learning from diverse experiences, and sharing insights with the scientific community.
+
 I thrive in environments where creativity meets rigor, and I aim to translate complex challenges into actionable solutions that make a real impact on both science and society.
 
-Research
-PhD Topic: AI-driven modeling of groundwater variability and hydrogeological systems
+---
 
-Key interests:
-Machine Learning & Deep Learning for hydrogeology
-Groundwater level prediction & variability analysis
-Environmental data modeling
-Interdisciplinary AI applications in Earth sciences
+## Research
+
+**PhD Topic:** AI-driven modeling of groundwater variability and hydrogeological systems
+
+**Key interests:**
+- Machine Learning & Deep Learning for hydrogeology
+- Groundwater level prediction & variability analysis
+- Environmental data modeling
+- Interdisciplinary AI applications in Earth sciences
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## A Few Things About Me
+
+- 🔬 I work at the crossroads of AI and Earth sciences — where algorithms meet aquifers
+- 🌍 Based in Rouen, France · Université de Rouen Normandie & CNRS
+- 📖 I believe rigorous research and creative thinking are not opposites
+- 🚧 Projects and publications coming soon
+- 💬 Always happy to connect with fellow researchers and data scientists
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@univ-rouen.fr)
+
+---
+
+*PhD Researcher · Université de Rouen Normandie · CNRS*
