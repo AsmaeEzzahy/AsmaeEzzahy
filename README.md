@@ -32,8 +32,11 @@ I thrive in environments where creativity meets rigor, and I aim to translate co
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter,git,sklearn,mysql,postgres&theme=light)](https://skillicons.dev)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
