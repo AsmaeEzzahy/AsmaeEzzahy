@@ -53,9 +53,11 @@ I thrive in environments where creativity meets rigor, and I aim to translate co
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@univ-rouen.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN-SLUG](https://www.linkedin.com/in/asmae-ez-zahy/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asmaezzahyy@univ-rouen.fr)
 
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-9221-1538)
+[![HAL](https://img.shields.io/badge/HAL-00A4CC?style=flat-square&logoColor=white)](https://hal.science/search/index/?q=*&authIdHal_s=asmae-ez-zahy)
 ---
 
 *PhD Researcher · Université de Rouen Normandie · CNRS*
